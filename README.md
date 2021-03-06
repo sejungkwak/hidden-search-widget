@@ -16,4 +16,18 @@ transition<br />
 3. JavaScript<br />
 click eventListener<br />
 classList toggle<br />
-<img width="1411" alt="image" src="https://user-images.githubusercontent.com/71224770/110223881-f264ff00-7ece-11eb-8bd1-e7548be25b7d.png">
+
+
+# Takeaway from the instructor
+1.HTML<br />
+placeholder<br />
+button tag wrapped the icon<br />
+
+2.CSS
+container no display / set btn value<br />
+btn: top 0, left 0, height 50%, width 50% make the icon center<br />
+  	-transition: transform<br />
+  	+when active transform: translateX(198px);<br />
+
+3.JavaScript<br />
+focus() method on the input => don’t see the difference.
